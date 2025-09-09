@@ -117,6 +117,7 @@ void test_iomanager()
 
 int main(int argc, char *argv[])
 {
+    std::cout<<"hello myFiber\n";
     test_iomanager();
     return 0;
 }
